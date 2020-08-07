@@ -6,6 +6,6 @@ def find_even_values(src)
   row_count=0 
   while row_count<src.count do
     
-    if array[]
+    if src[]
 
 end
