@@ -12,5 +12,3 @@ def find_even_values(src)
     end
     row_count += 1 
   end
-
-end
